@@ -1,5 +1,4 @@
-## Hi there 👋
-I am <b>Fazle Rabbi.</b> <br/><br/>
+## Hi there I am Fazle Rabbi 👋
 UG Computer Science Student <br/>
 Rajshahi University of Engineering & Technology 
 
