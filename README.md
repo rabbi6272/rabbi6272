@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am <b>Fazle Rabbi.</b>
-UG Computer Science Student
-Rajshahi University of Engineering & Technology
+I am <b>Fazle Rabbi.</b> <br/>
+UG Computer Science Student <br/>
+Rajshahi University of Engineering & Technology 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/frabbi6272) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._rab_bi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazle-rabbi-b48a722a2) 
