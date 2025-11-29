@@ -1,6 +1,6 @@
 ## Hi there I am Fazle Rabbi 👋
-UG Computer Science Student <br/>
-Rajshahi University of Engineering & Technology 
+UG Computer Science Student at <br/>
+Rajshahi University of Engineering & Technology.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rabbi6272) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/frabbi6272) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._rab_bi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazle-rabbi-b48a722a2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/rabbi6272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmrabbi625442@gmail.com) 
