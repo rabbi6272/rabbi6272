@@ -1,6 +1,4 @@
 ## Hi there!! I am Fazle Rabbi 👋
-UG Computer Science Student at <br/>
-Rajshahi University of Engineering & Technology.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
